@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hello there👋 </h1>
 
-<h2 align="center"> 👨‍💻 Who am I</h2>
+
 <p align="center">
   <samp> text here
   </samp>
