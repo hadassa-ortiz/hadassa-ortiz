@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <samp> text here
+  <samp> I'm currently doing a Master's degree in biotechnology and I have experience with bioinformatics, data analysis and data science.
   </samp>
   <br> <br>
 <!--
